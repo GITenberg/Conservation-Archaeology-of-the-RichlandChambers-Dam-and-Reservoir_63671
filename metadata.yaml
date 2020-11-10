@@ -1,0 +1,23 @@
+_repo: Conservation-Archaeology-of-the-RichlandChambers-Dam-and-Reservoir_63671
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Moir, Randall W.
+    gutenberg_agent_id: '52549'
+    url: http://www.gutenberg.org/2009/agents/52549
+  - agent_name: Raab, L. Mark
+    gutenberg_agent_id: '52548'
+    url: http://www.gutenberg.org/2009/agents/52548
+description: ''
+gutenberg_issued: '2020-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Conservation Archaeology of the Richland/Chambers Dam and Reservoir
+url: http://www.gutenberg.org/ebooks/63671
