@@ -1,5 +1,8 @@
 _repo: Conservation-Archaeology-of-the-RichlandChambers-Dam-and-Reservoir_63671
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63671-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Moir, Randall W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52548'
     url: http://www.gutenberg.org/2009/agents/52548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63671#Conservation-Archaeology-of-the-RichlandChambers-Dam-and-Reservoir
 gutenberg_issued: '2020-11-07'
 gutenberg_type: Text
 identifiers:
